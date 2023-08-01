@@ -33,6 +33,7 @@ document.getElementById('submit').style.display="block";
           
       </section>
       <section className="sec2">
+        <form action="message" method='post'></form>
         <div className="namemail">
           <input className='name' type="name" placeholder='Name' />
           <input className='email' type="email" placeholder='abc@gmail.com' />
@@ -45,6 +46,9 @@ document.getElementById('submit').style.display="block";
       </section>
       </div>
     </div>
+    <div className="wrapper">
+      </div>      
+
     </>
   )
 }

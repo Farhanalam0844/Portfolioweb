@@ -243,7 +243,7 @@ padding: 2em;
    width: 30%;
   }
    .home, .contact, .about, .resume, .whatido,.footer{
-    width: 105%;
+    width: 112%;
     left: 45%;
    }
    .home h1{
@@ -255,7 +255,7 @@ padding: 2em;
  }
 @media (max-width:320px) {
   .home, .contact, .about, .resume, .whatido,.footer{
-   width: 125%;
+   width: 140%;
    left: 55%;
   }
 
@@ -270,4 +270,26 @@ padding: 2em;
 #contact section p{
   padding: 1em;
   display: none;
+}
+.button{
+  z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  color: rgb(255, 244, 244);
+  position: fixed;
+  bottom: 2em;
+  padding: 0.5em;
+  float: right;
+  right: 1em;
+}
+.clearfix{
+  background-color: rgb(24, 21, 21)
+}
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.wrapper{
+  flex: 1;
 }

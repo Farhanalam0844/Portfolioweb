@@ -2,7 +2,6 @@ import React from 'react'
 import { HashLink as Link } from 'react-router-hash-link/dist/react-router-hash-link.cjs.production';
 
 export default function home() {
-
   return (
     <main className='home' id='home'>
       <section className='headings'>
