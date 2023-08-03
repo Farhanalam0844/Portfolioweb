@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolioweb/static/css/main.9be94dc9.css",
-    "main.js": "/Portfolioweb/static/js/main.adb9103a.js",
+    "main.css": "/Portfolioweb/static/css/main.04971077.css",
+    "main.js": "/Portfolioweb/static/js/main.aae67b67.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolioweb/static/js/787.1ed0c42c.chunk.js",
     "static/media/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg": "/Portfolioweb/static/media/caspar-camille-rubin-fPkvU7RDmCo-unsplash.62bab217c826fe5a3651.jpg",
     "static/media/my-cv _1.pdf": "/Portfolioweb/static/media/my-cv _1.955a25bf654f71d4dd42.pdf",
     "static/media/863.jpg": "/Portfolioweb/static/media/863.58910048071c77221a3a.jpg",
     "static/media/icon.png": "/Portfolioweb/static/media/icon.a633845bca57a0d1a648.png",
     "index.html": "/Portfolioweb/index.html",
-    "main.9be94dc9.css.map": "/Portfolioweb/static/css/main.9be94dc9.css.map",
-    "main.adb9103a.js.map": "/Portfolioweb/static/js/main.adb9103a.js.map",
+    "main.04971077.css.map": "/Portfolioweb/static/css/main.04971077.css.map",
+    "main.aae67b67.js.map": "/Portfolioweb/static/js/main.aae67b67.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolioweb/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9be94dc9.css",
-    "static/js/main.adb9103a.js"
+    "static/css/main.04971077.css",
+    "static/js/main.aae67b67.js"
   ]
 }
